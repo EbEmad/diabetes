@@ -1,0 +1,13 @@
+pandas
+pyarrow
+jupyter
+scikit-learn
+numpy
+matplotlib
+seaborn
+shap
+fastapi
+uvicorn
+gunicorn
+pydantic
+sqlmodel
